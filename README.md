@@ -1,9 +1,9 @@
 Disable-Chromatic-Aberration
 
 
-This is a mod for **The Long Dark** by Hinterland Games Studio, Inc.
+Bu mod **The Long Dark** oyunu için ek özellik sağlar. (Hinterland Studio, Inc.)
 
 
-It disables [Chromatic Aberration](https://docs.unity3d.com/Manual/PostProcessing-ChromaticAberration.html) in all quality settings.
+Kalite ayarlarından [Renk Sapması](https://docs.unity3d.com/Manual/PostProcessing-ChromaticAberration.html) özelliğini devre dışı bırakır.
 
-Requires the [Mod Loader](https://github.com/zeobviouslyfakeacc/ModLoaderInstaller) to run.
+Kurulum için [Mod Yükleyici](https://github.com/zeobviouslyfakeacc/ModLoaderInstaller) gerektirir.
